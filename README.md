@@ -101,7 +101,7 @@ O usuário responde `s` e o registro é removido.
 ### 4. Consulta de ID inexistente
 Consulta pelo ID removido retorna mensagem de não encontrado.
 
-![Consulta de ID inexistente](evidencias/04_consulta_id_inexistente.png)
+![Consulta de ID inexistente](evidencias/04_consulta_inexistente.png)
 
 ### 5. Validação de ID inválido
 Entradas `-5` e `abc` são recusadas e o ID é pedido de novo.
@@ -141,7 +141,7 @@ Cadastro com ID já existente é recusado.
 ### 12. Campo obrigatório vazio
 Título em branco é recusado e pedido novamente.
 
-![Campo obrigatório vazio](evidencias/12_campo_obrigatorio_vazio.png)
+![Campo obrigatório vazio](evidencias/12_campo_obrigatorio.png)
 
 ### 13. Opção inexistente
 Opção `9` exibe mensagem e o menu continua.
