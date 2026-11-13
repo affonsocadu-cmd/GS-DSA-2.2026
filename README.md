@@ -189,4 +189,4 @@ Total de registros e distribuição por categoria.
 └── README.md
 ```
 
-> O arquivo `dados_servicos.json` é gerado automaticamente ao encerrar o programa. Se quiserem, adicionem-no ao `.gitignore`.
+> O arquivo `dados_servicos.json` é gerado automaticamente ao encerrar o programa.
